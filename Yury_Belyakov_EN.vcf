@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Belyakov;Yury;Viktorovich;Mr.
+FN:Yury Belyakov
+NICKNAME:belyan
+ORG:NetCracker Technology Corp.;Research and Development
+TITLE:Senior Software Engineer
+TEL;CELL;VOICE;MSG;PREF:+7 9629400606
+TEL;HOME;VOICE:+7 (495) 3451195
+TEL;WORK;VOICE:+7 (495) 9269347
+TEL;WORK;FAX:+7 (495) 9269348
+ADR;WORK:;;7/1, Kozhevnicheskaya St.;Moscow;;115114;Russia
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:7/1, Kozhevnicheskaya St.=0D=0AMoscow 115114=0D=0ARussia
+ADR;POSTAL;HOME:;;3-2, Porechnaya St.;Moscow;;109652;Russia
+LABEL;HOME;ENCODING=QUOTED-PRINTABLE:3-2, Porechnaya St.=0D=0AMoscow 109652=0D=0ARussia
+URL:https://github.com/belyan/vcard
+ROLE:Programmer
+BDAY:19790608
+EMAIL;INTERNET:belyan@mail.ru
+REV:20130722T220451Z
+END:VCARD
