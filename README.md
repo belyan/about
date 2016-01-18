@@ -10,7 +10,7 @@ I love my job and always try to learn something new. My favorite technologies ar
 
 Besides work I love my family, good movies, computer games and online poker.
 
-If you want to contact me, write me in [Skype](skype:bel9ln?chat) or by [email](mailto:belyan@mail.ru).
+If you want to contact me, write me by [email](mailto:belyan@mail.ru) or chat in [Skype](skype:bel9ln?chat) (my nickname is `bel9ln`).
 
 ## Resume
 
