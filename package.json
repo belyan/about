@@ -1,0 +1,23 @@
+{
+  "name": "about",
+  "version": "1.0.0",
+  "description": "Summary information about me, resume and contacts",
+  "main": "README.md",
+  "devDependencies": {
+    "github-markdown-css": "^2.2.1",
+    "wkhtmltopdf": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/belyan/about.git"
+  },
+  "author": "Yuriy Belyakov <belyan@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belyan/about/issues"
+  },
+  "homepage": "https://github.com/belyan/about"
+}
