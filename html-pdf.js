@@ -1,7 +1,7 @@
 var wkhtmltopdf = require('wkhtmltopdf');
 
 var fs = require('fs');
-var html = fs.readFileSync('readme.html', 'utf8');
+var html = fs.readFileSync('resume.html', 'utf8');
 
 var options = {
     pageSize: 'A4',
@@ -11,7 +11,7 @@ var options = {
     marginLeft: '20mm',
     zoom: 1.2,
     userStyleSheet: 'node_modules/github-markdown-css/github-markdown.css',
-    output: 'readme.pdf'
+    output: 'Yuri_Belyakov_EN.pdf'
 };
 
 wkhtmltopdf(html, options);
