@@ -4,11 +4,9 @@
   "description": "Summary information about me, resume and contacts",
   "main": "README.md",
   "devDependencies": {
+    "font-awesome": "^4.5.0",
     "github-markdown-css": "^2.2.1",
     "wkhtmltopdf": "^0.1.5"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

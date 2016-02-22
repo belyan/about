@@ -1,0 +1,27 @@
+@import "node_modules/font-awesome/css/font-awesome.min.css";
+@import "node_modules/github-markdown-css/github-markdown.css";
+
+.markdown-body th,
+.markdown-body td {
+    padding: 6px 13px !important;
+    border: 1px solid #ddd !important;
+}
+
+p.photo {
+    float: right;
+    margin-left: 15mm;
+}
+
+ul.fa-ul {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+i.fa {
+    width: 32px;
+    text-align: center;
+}
+
+h2 i.fa {
+    width: 48px;
+}

@@ -10,7 +10,7 @@ var options = {
     marginBottom: '15mm',
     marginLeft: '20mm',
     zoom: 1.2,
-    userStyleSheet: 'node_modules/github-markdown-css/github-markdown.css',
+    userStyleSheet: 'resume.css',
     output: 'Yuri_Belyakov_EN.pdf'
 };
 
