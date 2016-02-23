@@ -6,7 +6,7 @@ var html = fs.readFileSync('resume.html', 'utf8');
 var options = {
     pageSize: 'A4',
     marginTop: '15mm',
-    marginRight: '20mm',
+    marginRight: '10mm',
     marginBottom: '15mm',
     marginLeft: '20mm',
     zoom: 1.2,
