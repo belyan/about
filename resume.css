@@ -1,6 +1,10 @@
 @import "node_modules/font-awesome/css/font-awesome.min.css";
 @import "node_modules/github-markdown-css/github-markdown.css";
 
+.markdown-body table {
+    overflow: visible;
+}
+
 .markdown-body th,
 .markdown-body td {
     padding: 6px 13px !important;
@@ -9,7 +13,13 @@
 
 p.photo {
     float: right;
-    margin-left: 15mm;
+    margin: 10mm;
+}
+
+aside {
+    float: right;
+    width: 45%;
+    margin-left: 10mm;
 }
 
 ul.fa-ul {
