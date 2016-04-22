@@ -12,7 +12,7 @@ Besides work I love my family, good movies, computer games and online poker.
 
 ## Contacts
 
-If you want to contact me, write me by [email](mailto:belyan@mail.ru) or chat in [Skype](skype:bel9ln?chat) (my nickname is `bel9ln`).
+If you want to contact me, write me by [email](mailto:yuri.beliakov@gmail.com) or chat in [Skype](skype:yuri.beliakov?chat) (my nickname is `yuri.beliakov`).
 
 ## Resume
 
