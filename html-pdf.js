@@ -11,7 +11,7 @@ var options = {
     marginLeft: '20mm',
     zoom: 1.2,
     userStyleSheet: 'resume.css',
-    output: 'Yuri_Belyakov_EN.pdf'
+    output: 'Yuri_Beliakov_EN.pdf'
 };
 
 wkhtmltopdf(html, options);
