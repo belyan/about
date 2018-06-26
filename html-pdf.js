@@ -9,7 +9,7 @@ var options = {
     marginRight: '10mm',
     marginBottom: '15mm',
     marginLeft: '20mm',
-    zoom: 1.2,
+    zoom: 1.0,
     userStyleSheet: 'resume.css',
     output: 'Yuri_Beliakov_EN.pdf'
 };
