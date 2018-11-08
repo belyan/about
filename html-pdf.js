@@ -1,17 +1,19 @@
 var wkhtmltopdf = require('wkhtmltopdf');
 
 var fs = require('fs');
-var html = fs.readFileSync('resume.html', 'utf8');
+var resume = fs.readFileSync('resume.html', 'utf8');
+var letter = fs.readFileSync('letter.html', 'utf8');
 
 var options = {
     pageSize: 'A4',
-    marginTop: '15mm',
-    marginRight: '10mm',
-    marginBottom: '15mm',
-    marginLeft: '20mm',
+    marginTop: '10mm',
+    marginRight: '5mm',
+    marginBottom: '10mm',
+    marginLeft: '15mm',
     zoom: 1.0,
-    userStyleSheet: 'resume.css',
-    output: 'Yuri_Beliakov_EN.pdf'
+    userStyleSheet: 'styles.css'
 };
 
-wkhtmltopdf(html, options);
+
+wkhtmltopdf(resume, Object.assign(options, {output: 'Yuri_Beliakov_CV.pdf'}));
+wkhtmltopdf(letter, Object.assign(options, {output: 'Yuri_Beliakov_letter.pdf'}));
