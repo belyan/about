@@ -6,6 +6,7 @@ var letter = fs.readFileSync('letter.html', 'utf8');
 
 var options = {
     pageSize: 'A4',
+    dpi: 300,
     marginTop: '10mm',
     marginRight: '5mm',
     marginBottom: '10mm',
